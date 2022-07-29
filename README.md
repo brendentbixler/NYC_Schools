@@ -1,4 +1,4 @@
-## 20220615BrendenBixlerNYCSCHOOLs
+## BrendenBixlerNYCSchools
 
 ## Author
 Brenden Bixler
@@ -13,7 +13,5 @@ Run the app and enjoy! scroll through the list of schools and select one you wna
 the SAT scores for.
 
 ## Roadmap
-A couple features I want to add in the future that I didn't have time for:
+Features on my mind that can be added in the future
 [] Change sat scores (SchoolInfo) to a fragment that will display the sat data
-[] Sort the schools before listing them
-[] Once sorted, add headers for each new beginning letter like a contact list
