@@ -14,4 +14,4 @@ the SAT scores for.
 
 ## Roadmap
 Features on my mind that can be added in the future
-[] Change sat scores (SchoolInfo) to a fragment that will display the sat data
+- Change sat scores (SchoolInfo) to a fragment that will display the sat data
